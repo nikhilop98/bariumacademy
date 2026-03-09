@@ -19,7 +19,7 @@ import WhatsNew from "./components/WhatsNew";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/bariumacademy/">
       <ScrollToTop />
       <Routes>
         {/* Home page */}
