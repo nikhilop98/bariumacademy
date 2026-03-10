@@ -419,8 +419,7 @@ h6 {
 .hero-actions {
   display: flex;
   gap: 1rem;
-  flex-wrap: nowrap;
-  white-space: nowrap;
+  flex-wrap: wrap;
   margin-bottom: 2.5rem;
 }
 
